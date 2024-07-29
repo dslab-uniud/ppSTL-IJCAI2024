@@ -27,6 +27,3 @@ If you use anything from our paper or code, please cite our work using the follo
         url = {https://www.ijcai.org/proceedings/2024/362},
         year={2024}
       }
-
-
-All the content will be updated soon.
