@@ -7,7 +7,6 @@
  
 </div>
 
-<img src="" width="300" />
 <p align="center">
 <img src="https://github.com/dslab-uniud/ppSTL-IJCAI2024/blob/main/graphical_abstract.png" alt="Graphical abstract" />
 </p>
