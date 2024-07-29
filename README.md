@@ -16,6 +16,9 @@ If you use anything from our paper or code, please cite our work using the follo
         author={Brunello, Andrea and Geatti, Luca and Montanari, Angelo and Saccomanno, Nicola},
         booktitle={Proceedings of the 33rd International Joint Conference on Artificial Intelligence ({IJCAI 2024)},
         pages={3270--3280},
+        publisher = {ijcai.org},
+        doi = {10.24963/ijcai.2024/362},
+        url = {https://www.ijcai.org/proceedings/2024/362},
         year={2024}
       }
 
