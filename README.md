@@ -11,7 +11,7 @@ This repository contains the [full paper presented at IJCAI 2024 (including the 
 
 If you use anything from our paper or code, please cite our work using the following format:
 
-      @inproceedings{liu2023local,
+      @inproceedings{brunello2024monitoring,
         title={Learning what to Monitor: using Machine Learning to Improve Past {STL} Monitoring},
         author={Brunello, Andrea and Geatti, Luca and Montanari, Angelo and Saccomanno, Nicola},
         booktitle={Proceedings of the 33rd International Joint Conference on Artificial Intelligence ({IJCAI 2024)},
