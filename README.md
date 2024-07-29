@@ -3,6 +3,7 @@
 <div align="center">  
   
 # Learning what to Monitor: using Machine Learning to Improve Past STL Monitoring     
+[![Paper](https://img.shields.io/badge/paper-IJCAI%202024-orange)](https://www.ijcai.org/proceedings/2024/362)
  
 </div>
 
