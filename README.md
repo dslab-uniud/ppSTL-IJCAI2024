@@ -7,7 +7,10 @@
  
 </div>
 
-<img src="https://github.com/dslab-uniud/ppSTL-IJCAI2024/blob/main/IJCAI_2024_framework_canonical.pdf" width="300" />
+<img src="" width="300" />
+<p align="center">
+<img src="https://github.com/dslab-uniud/ppSTL-IJCAI2024/blob/main/IJCAI_2024_framework_canonical.png" alt="Graphical abstract" />
+</p>
 
 
 ## Description   
