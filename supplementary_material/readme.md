@@ -61,7 +61,7 @@ Note that the script is currently configured to run in full training mode. To ru
 
 ### Hyperparameters
 
-This framework is highly flexible and allows for the setting of multiple hyperparameters. In this section, we describe the hyperparameters we considered for the hyperparameter search, with some default/example values (see also Appendix E, Table 2, in the [paper](https://github.com/dslab-uniud/ppSTL-IJCAI2024/blob/main/IJCAI_2024_framework_canonical.pdf)).
+The framework is highly flexible and allows for the setting of multiple hyperparameters. In this section, we describe the hyperparameters we considered for the hyperparameter search, with some default/example values (see also Appendix E, Table 2, in the [paper](https://github.com/dslab-uniud/ppSTL-IJCAI2024/blob/main/IJCAI_2024_framework_canonical.pdf)).
 
 ```text
 'dataset_name': 'CMAPSS' - Name of the dataset. Based on it, train and test datasets are read (paths are hardcoded in the script) and also the corresponding preprocessing is applied
