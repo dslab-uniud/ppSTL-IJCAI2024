@@ -81,7 +81,7 @@ This framework is highly flexible and allows for the setting of multiple hyperpa
 'num_seeds': 1 - Specifies which init random seed is used among those pre-sampled.
 ```
 
-To add a new dataset besides those already supported, the script, particularly the `main` function, shall be edited to perform the necessary preprocessing/formatting steps.
+To add a new dataset besides the one already provided ([CMAPSS](https://github.com/dslab-uniud/ppSTL-IJCAI2024/tree/main/supplementary_material/dataset/)), the script, particularly the `main` function, shall be edited to perform the necessary preprocessing/formatting steps.
 
 
 
@@ -123,8 +123,8 @@ The [test_params.txt](https://github.com/dslab-uniud/ppSTL-IJCAI2024/blob/main/s
 To reproduce our experiments, you can use the provided configuration files which are located in the configs folder. Simply pass the desired configuration file as a parameter when running the scripts:
 
 ```bash
-python3.9 framework_script_future.py configs/SMART_future_s1.txt
-python3.9 framework_script_past.py configs/SMART_past_s1.txt
+python3.9 framework_script_future.py configs/CMAPSS_future_s1.txt
+python3.9 framework_script_past.py configs/CMAPSS_past_s1.txt
 ```
 
-Replace [SMART_future_s1.txt)](https://github.com/dslab-uniud/ppSTL-IJCAI2024/blob/main/supplementary_material/framework_code/configs/SMART_future_s1.txt) with the name of the configuration file for the experiment you want to reproduce.
+Replace [CMAPSS_future_s1.txt)](https://github.com/dslab-uniud/ppSTL-IJCAI2024/blob/main/supplementary_material/framework_code/configs/CMAPSS_future_s1.txt) with the name of the configuration file for the experiment you want to reproduce.
