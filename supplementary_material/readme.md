@@ -98,7 +98,7 @@ python3.9  framework_script_past.py test_params.txt test
 
 In this case, [test_params.txt](https://github.com/dslab-uniud/ppSTL-IJCAI2024/blob/main/supplementary_material/framework_code/test_params.txt) should contain the paths to the parameters file for the specific run of the pool of formulas that you want to test. 
 
-####Example
+###Example
 
 Suppose that the execution of the framework led in the [./runs/](https://github.com/dslab-uniud/ppSTL-IJCAI2024/tree/main/supplementary_material/framework_code/runs) folder to the creation of the following two files:
 
