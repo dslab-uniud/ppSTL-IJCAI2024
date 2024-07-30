@@ -127,4 +127,4 @@ python3.9 framework_script_future.py configs/CMAPSS_future_s1.txt
 python3.9 framework_script_past.py configs/CMAPSS_past_s1.txt
 ```
 
-Replace [CMAPSS_future_s1.txt)](https://github.com/dslab-uniud/ppSTL-IJCAI2024/blob/main/supplementary_material/framework_code/configs/CMAPSS_future_s1.txt) with the name of the configuration file for the experiment you want to reproduce.
+Replace [CMAPSS_future_s1.txt](https://github.com/dslab-uniud/ppSTL-IJCAI2024/blob/main/supplementary_material/framework_code/configs/CMAPSS_future_s1.txt) with the name of the configuration file for the experiment you want to reproduce.
