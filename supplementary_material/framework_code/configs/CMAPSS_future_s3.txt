@@ -1,0 +1,1 @@
+{'dataset_name': 'CMAPSS', 'min_accuracy': 0.75, 'n_augs': 50, 'max_score_ea': 0.02, 'good_witnesses_ratio': 0.33, 'max_gen': 500, 'pop_size': 500, 'cxpb': 0.8, 'mutpb': 0.6, 'output_file_suffix': 'future_s3', 'num_seeds': 3, 'max_ea_height': 17,  'goodbad_traces_at_ea_generation': 10, 'ea_patience': 50, 'mutation_decay': 3}

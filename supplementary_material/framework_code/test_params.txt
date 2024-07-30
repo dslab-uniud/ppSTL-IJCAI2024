@@ -1,0 +1,4 @@
+{
+    'test_simulated_online' : False, 
+    'train_dict_path': "./runs/..."
+}

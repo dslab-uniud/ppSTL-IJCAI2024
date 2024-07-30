@@ -1,0 +1,1 @@
+{'dataset_name': 'SMART_2016', 'min_accuracy': 0.75, 'n_augs': 50, 'max_score_ea': 0.000438, 'good_witnesses_ratio': 0.0175, 'max_gen': 500, 'pop_size': 200, 'cxpb': 0.7, 'mutpb': 0.5, 'output_file_suffix': 'future_s2', 'num_seeds': 2, 'max_ea_height': 17,  'goodbad_traces_at_ea_generation': 1, 'ea_patience': 50, 'mutation_decay': 3}
