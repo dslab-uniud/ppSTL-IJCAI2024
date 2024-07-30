@@ -51,7 +51,7 @@ python3.9  framework_script_past.py input_params.txt
 
 In the above commands, [input_params.txt](https://github.com/dslab-uniud/ppSTL-IJCAI2024/blob/main/supplementary_material/framework_code/input_params.txt) is a textual file containing a dictionary of hyperparameters. You can replace [input_params.txt](https://github.com/dslab-uniud/ppSTL-IJCAI2024/blob/main/supplementary_material/framework_code/input_params.txt) with the path to your own configuration file.
 
-The output files of the script execution, generated in the [./runs/](https://github.com/dslab-uniud/ppSTL-IJCAI2024/tree/main/supplementary_material/framework_code/runs) folder, are several. Of general interest, there is a params file containing the configuration used to run the experiment (this file is needed for testing as well), and a pickle file containing the pool of formulas extracted with some statistics. 
+The output files of the script execution, generated in the [./runs/](https://github.com/dslab-uniud/ppSTL-IJCAI2024/tree/main/supplementary_material/framework_code/runs) folder, are several. Of general interest, there is a params file containing the configuration used to run the experiment (this file is needed for test purposes as well), and a pickle file containing the pool of formulas extracted with some statistics. 
 
 Note that the script is currently configured to run in full training mode. To run it using a validation set (90-10 split), the lines at the end of the `main` function shall be changed (i.e., uncommented).
 
