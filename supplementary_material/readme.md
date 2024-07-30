@@ -36,8 +36,8 @@ Now, you should be able to run the scripts as described in the following "How to
 
 
 
-## How to Execute the Code
-### Training mode
+# How to Execute the Code
+## Training mode
 
 This project includes two main scripts: [framework_script_future.py](https://github.com/dslab-uniud/ppSTL-IJCAI2024/blob/main/supplementary_material/framework_code/framework_script_future.py) and [framework_script_past.py](https://github.com/dslab-uniud/ppSTL-IJCAI2024/blob/main/supplementary_material/framework_code/framework_script_past.py). They can be found in the [framework_code](https://github.com/dslab-uniud/ppSTL-IJCAI2024/tree/main/supplementary_material/framework_code) folder. To execute these scripts, you need to pass a dictionary containing all the necessary hyperparameters as a parameter.
 
@@ -59,7 +59,7 @@ Note that the script is currently configured to run in full training mode. To ru
 
 
 
-#### Hyperparameters
+### Hyperparameters
 
 This framework is highly flexible and allows for the setting of multiple hyperparameters. In this section, we describe the hyperparameters we considered for the hyperparameter search, with some default/example values (see also Appendix E, Table 2, in the [paper](https://github.com/dslab-uniud/ppSTL-IJCAI2024/blob/main/IJCAI_2024_framework_canonical.pdf)).
 
@@ -87,7 +87,7 @@ To add a new dataset besides the one already provided ([CMAPSS](https://github.c
 
 
 
-### Test mode
+## Test mode
 
 To run the scripts in test mode, add the "test" parameter and ensure that the parameters dictionary points to the dictionary created by the script for the run of the pool that you want to use:
 
@@ -118,7 +118,7 @@ The [test_params.txt](https://github.com/dslab-uniud/ppSTL-IJCAI2024/blob/main/s
 </details>
 
 
-## Reproducing Our Experiments
+# Reproducing Our Experiments
 
 To reproduce our experiments, you can use the provided configuration files which are located in the configs folder. Simply pass the desired configuration file as a parameter when running the scripts:
 
