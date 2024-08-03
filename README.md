@@ -17,13 +17,17 @@ This repository contains the [full paper presented at IJCAI 2024 (including the 
 
 If you use anything from our paper or code, please cite our work using the following format:
 
-      @inproceedings{brunello2024monitoring,
-        title={Learning what to Monitor: using Machine Learning to Improve Past {STL} Monitoring},
-        author={Brunello, Andrea and Geatti, Luca and Montanari, Angelo and Saccomanno, Nicola},
-        booktitle={Proceedings of the 33rd International Joint Conference on Artificial Intelligence ({IJCAI 2024)},
-        pages={3270--3280},
-        publisher = {ijcai.org},
-        doi = {10.24963/ijcai.2024/362},
-        url = {https://www.ijcai.org/proceedings/2024/362},
-        year={2024}
-      }
+@inproceedings{ijcai2024p362,
+  title     = {Learning What to Monitor: Using Machine Learning to Improve past STL Monitoring},
+  author    = {Brunello, Andrea and Geatti, Luca and Montanari, Angelo and Saccomanno, Nicola},
+  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+               Artificial Intelligence, {IJCAI-24}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Kate Larson},
+  pages     = {3270--3280},
+  year      = {2024},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2024/362},
+  url       = {https://doi.org/10.24963/ijcai.2024/362},
+}
